@@ -8,9 +8,13 @@
 .sec-1-1{
     margin-left: 100px;
 }
-.sec-1-1 img{
-    width: 400px;
+
+.sec-1-1 img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
     border-radius: 50%;
+    border: 3px solid #ff8500;
 }
 .sec-1-2{
     display: flex;
